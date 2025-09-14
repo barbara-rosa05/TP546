@@ -2,7 +2,7 @@
 
 Este repositório reúne os trabalhos desenvolvidos ao longo da disciplina **TP546 - Internet das Coisas e Redes Veiculares**, ministrada pelo Prof. Dr. **Samuel Baraldi Mafra**.  
 
-O espaço foi estruturado para armazenar e organizar, de forma modularizada, as diferentes atividades e o projeto final da disciplina.  
+O espaço foi estruturado para armazenar, centralizar e organizar, de forma modularizada, as diferentes atividades e resultados obtidos ao longo da disciplina, facilitando o acesso, a manutenção e a avaliação acadêmica dos trabalhos desenvolvidos.  
 
 ---
 
@@ -28,8 +28,3 @@ O espaço foi estruturado para armazenar e organizar, de forma modularizada, as 
 - **Artigos científicos** como base para revisão e fundamentação teórica  
 - **Overleaf** para elaboração e formatação dos documentos em LaTeX  
 - **Git + GitHub** para versionamento e armazenamento centralizado dos trabalhos  
-
----
-
-## Objetivo
-O objetivo deste repositório é centralizar os materiais, atividades e resultados obtidos ao longo da disciplina, facilitando o acesso, a manutenção e a avaliação acadêmica dos trabalhos desenvolvidos.  
