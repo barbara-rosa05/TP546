@@ -20,7 +20,8 @@ O espaço foi estruturado para armazenar, centralizar e organizar, de forma modu
   - IoT em movimento  
 
 - **Tarefa 1/**  
-  Artigo desenvolvido a partir de pesquisa sobre aplicações de redes sem fio.  
+  - Artigo desenvolvido a partir de pesquisa sobre aplicações de redes sem fio.
+  - Papers de referência para construção do artigo
 
 ---
 
