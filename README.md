@@ -25,6 +25,21 @@ O espaço foi estruturado para armazenar, centralizar e organizar, de forma modu
 - **Tarefa 2/**
   Artigo técnico desenvolvido com base nos princípios da **Agricultura 4.0**, abordando o uso de sensoriamento térmico, multiespectral e hiperespectral embarcado em veículos aéreos não tripulados (VANTs) para irrigação de precisão. Ele contempla fundamentos teóricos, exemplos reais, desafios e oportunidades.
 
+- **Tarefa 3/** SafeSleep — Sistema IoT de Monitoramento de Bebês via MQTT
+
+Implementação prática de um sistema IoT completo, composto por:
+
+Dispositivo virtual que gera leituras de sensores relacionadas ao ambiente do bebê:
+- Temperatura  
+- Umidade  
+- Nível de ruído  
+- Posição (supino, lateral ou prono)
+
+O simulador publica telemetria e alertas inteligentes em tópicos MQTT.
+
+#### **Broker MQTT (Mosquitto)**  
+Barramento de comunicação responsável por intermediar a troca de mensagens entre dispositivos e serviços envolvidos no ecossistema IoT.
+
 ---
 
 ## Tecnologias Utilizadas
