@@ -110,12 +110,5 @@ safesleep/#
 Simulador → Mosquitto → Logger
                   ↳ MQTTX
 ```
-
-## 📌 Próximos Passos
-- Dashboard (Node-RED / Grafana)
-- Banco de dados
-- API FastAPI
-- Autenticação no broker
-
 ## 🧾 Licença
 Projeto didático para estudos.
